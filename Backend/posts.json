@@ -1,0 +1,552 @@
+[
+  {
+    "id": 50,
+    "title": "Hey, I'm vitthal.",
+    "body": "I'm third year computer engineering student.",
+    "tags": [
+      "Engineering",
+      "Computer",
+      "Projects"
+    ],
+    "views": 100000
+  },
+  {
+    "id": 1,
+    "title": "How to Master React",
+    "body": "This post covers various techniques and tips to master React.",
+    "tags": [
+      "github",
+      "nosql",
+      "git"
+    ],
+    "views": 569
+  },
+  {
+    "id": 2,
+    "title": "Understanding Node.js",
+    "body": "A comprehensive guide to understanding and working with Node.js.",
+    "tags": [
+      "machinelearning",
+      "express",
+      "nextjs"
+    ],
+    "views": 771
+  },
+  {
+    "id": 3,
+    "title": "CSS for Beginners",
+    "body": "An introductory guide to help beginners learn CSS.",
+    "tags": [
+      "html",
+      "cloud",
+      "mongodb"
+    ],
+    "views": 998
+  },
+  {
+    "id": 4,
+    "title": "Advanced JavaScript",
+    "body": "This post dives into advanced concepts of JavaScript.",
+    "tags": [
+      "bash",
+      "ci/cd",
+      "nodejs"
+    ],
+    "views": 423
+  },
+  {
+    "id": 5,
+    "title": "Web Development Trends",
+    "body": "Discussing the latest trends in web development.",
+    "tags": [
+      "typescript",
+      "flask",
+      "webdev"
+    ],
+    "views": 450
+  },
+  {
+    "id": 6,
+    "title": "Backend Best Practices",
+    "body": "Best practices for building and maintaining a robust backend.",
+    "tags": [
+      "cloud",
+      "nosql",
+      "svelte"
+    ],
+    "views": 781
+  },
+  {
+    "id": 7,
+    "title": "Introduction to Docker",
+    "body": "An introduction to Docker and containerization.",
+    "tags": [
+      "css",
+      "agile",
+      "python"
+    ],
+    "views": 11
+  },
+  {
+    "id": 8,
+    "title": "Getting Started with Kubernetes",
+    "body": "A beginner's guide to getting started with Kubernetes.",
+    "tags": [
+      "nuxtjs",
+      "kubernetes",
+      "css"
+    ],
+    "views": 665
+  },
+  {
+    "id": 9,
+    "title": "Cloud Computing Essentials",
+    "body": "Understanding the essentials of cloud computing.",
+    "tags": [
+      "nuxtjs",
+      "mongodb",
+      "machinelearning"
+    ],
+    "views": 131
+  },
+  {
+    "id": 10,
+    "title": "DevOps Explained",
+    "body": "A detailed explanation of DevOps and its importance.",
+    "tags": [
+      "docker",
+      "data",
+      "javascript"
+    ],
+    "views": 646
+  },
+  {
+    "id": 11,
+    "title": "Learning Python",
+    "body": "A beginner's guide to learning Python programming.",
+    "tags": [
+      "html",
+      "nodejs",
+      "docker"
+    ],
+    "views": 809
+  },
+  {
+    "id": 12,
+    "title": "Building REST APIs with Flask",
+    "body": "How to build REST APIs using Flask.",
+    "tags": [
+      "typescript",
+      "scrum",
+      "react"
+    ],
+    "views": 199
+  },
+  {
+    "id": 13,
+    "title": "Machine Learning Basics",
+    "body": "An introduction to the basics of machine learning.",
+    "tags": [
+      "devops",
+      "data",
+      "javascript"
+    ],
+    "views": 778
+  },
+  {
+    "id": 14,
+    "title": "Data Analysis with Python",
+    "body": "Techniques for data analysis using Python.",
+    "tags": [
+      "backend",
+      "webdev",
+      "django"
+    ],
+    "views": 265
+  },
+  {
+    "id": 15,
+    "title": "Frontend Development with Vue.js",
+    "body": "Building frontend applications using Vue.js.",
+    "tags": [
+      "html",
+      "docker",
+      "webdev"
+    ],
+    "views": 703
+  },
+  {
+    "id": 16,
+    "title": "Understanding SQL",
+    "body": "A comprehensive guide to understanding SQL.",
+    "tags": [
+      "typescript",
+      "express",
+      "ci/cd"
+    ],
+    "views": 805
+  },
+  {
+    "id": 17,
+    "title": "NoSQL Databases Explained",
+    "body": "An explanation of NoSQL databases and their use cases.",
+    "tags": [
+      "scrum",
+      "vuejs",
+      "linux"
+    ],
+    "views": 731
+  },
+  {
+    "id": 18,
+    "title": "Version Control with Git",
+    "body": "Learning version control with Git.",
+    "tags": [
+      "bash",
+      "typescript",
+      "mongodb"
+    ],
+    "views": 32
+  },
+  {
+    "id": 19,
+    "title": "CI/CD Pipelines",
+    "body": "Building and maintaining CI/CD pipelines.",
+    "tags": [
+      "javascript",
+      "express",
+      "nuxtjs"
+    ],
+    "views": 285
+  },
+  {
+    "id": 20,
+    "title": "Agile Methodologies",
+    "body": "An introduction to Agile methodologies and practices.",
+    "tags": [
+      "python",
+      "docker",
+      "typescript"
+    ],
+    "views": 999
+  },
+  {
+    "id": 21,
+    "title": "Scrum Framework",
+    "body": "Understanding the Scrum framework.",
+    "tags": [
+      "ci/cd",
+      "machinelearning",
+      "django"
+    ],
+    "views": 24
+  },
+  {
+    "id": 22,
+    "title": "Using TypeScript",
+    "body": "A guide to using TypeScript in your projects.",
+    "tags": [
+      "docker",
+      "aws",
+      "express"
+    ],
+    "views": 569
+  },
+  {
+    "id": 23,
+    "title": "Building Single Page Applications",
+    "body": "How to build single page applications with modern frameworks.",
+    "tags": [
+      "ci/cd",
+      "javascript",
+      "frontend"
+    ],
+    "views": 375
+  },
+  {
+    "id": 24,
+    "title": "Introduction to HTML",
+    "body": "A beginner's guide to HTML.",
+    "tags": [
+      "frontend",
+      "aws",
+      "git"
+    ],
+    "views": 882
+  },
+  {
+    "id": 25,
+    "title": "Advanced CSS Techniques",
+    "body": "Exploring advanced techniques in CSS.",
+    "tags": [
+      "nodejs",
+      "react",
+      "angular"
+    ],
+    "views": 529
+  },
+  {
+    "id": 26,
+    "title": "Server-Side Rendering with Next.js",
+    "body": "How to implement server-side rendering with Next.js.",
+    "tags": [
+      "ci/cd",
+      "express",
+      "django"
+    ],
+    "views": 159
+  },
+  {
+    "id": 27,
+    "title": "Building Mobile Apps with React Native",
+    "body": "An introduction to building mobile apps with React Native.",
+    "tags": [
+      "scrum",
+      "nuxtjs",
+      "cloud"
+    ],
+    "views": 286
+  },
+  {
+    "id": 28,
+    "title": "Deploying Applications on AWS",
+    "body": "A guide to deploying applications on AWS.",
+    "tags": [
+      "svelte",
+      "vuejs",
+      "backend"
+    ],
+    "views": 722
+  },
+  {
+    "id": 29,
+    "title": "Server Management with Linux",
+    "body": "Best practices for server management using Linux.",
+    "tags": [
+      "scrum",
+      "nuxtjs",
+      "cloud"
+    ],
+    "views": 80
+  },
+  {
+    "id": 30,
+    "title": "Networking Basics",
+    "body": "An introduction to networking basics.",
+    "tags": [
+      "svelte",
+      "vuejs",
+      "express"
+    ],
+    "views": 320
+  },
+  {
+    "id": 31,
+    "title": "Security Best Practices",
+    "body": "Security best practices for modern applications.",
+    "tags": [
+      "webdev",
+      "html",
+      "nodejs"
+    ],
+    "views": 200
+  },
+  {
+    "id": 32,
+    "title": "Using Express for Web Development",
+    "body": "Building web applications with Express.",
+    "tags": [
+      "typescript",
+      "docker",
+      "frontend"
+    ],
+    "views": 800
+  },
+  {
+    "id": 33,
+    "title": "Introduction to DevOps Tools",
+    "body": "A guide to the most popular DevOps tools.",
+    "tags": [
+      "django",
+      "backend",
+      "scrum"
+    ],
+    "views": 937
+  },
+  {
+    "id": 34,
+    "title": "Understanding Microservices",
+    "body": "An introduction to microservices architecture.",
+    "tags": [
+      "typescript",
+      "git",
+      "html"
+    ],
+    "views": 659
+  },
+  {
+    "id": 35,
+    "title": "Building Scalable Applications",
+    "body": "How to build scalable applications.",
+    "tags": [
+      "webdev",
+      "nuxtjs",
+      "python"
+    ],
+    "views": 400
+  },
+  {
+    "id": 36,
+    "title": "Data Visualization Techniques",
+    "body": "Techniques for visualizing data effectively.",
+    "tags": [
+      "express",
+      "html",
+      "vuejs"
+    ],
+    "views": 795
+  },
+  {
+    "id": 37,
+    "title": "Introduction to Data Science",
+    "body": "An introduction to data science and its applications.",
+    "tags": [
+      "mongodb",
+      "bash",
+      "nuxtjs"
+    ],
+    "views": 819
+  },
+  {
+    "id": 38,
+    "title": "Understanding APIs",
+    "body": "A comprehensive guide to understanding APIs.",
+    "tags": [
+      "scrum",
+      "docker",
+      "express"
+    ],
+    "views": 877
+  },
+  {
+    "id": 39,
+    "title": "Building with Angular",
+    "body": "How to build applications using Angular.",
+    "tags": [
+      "html",
+      "nodejs",
+      "git"
+    ],
+    "views": 835
+  },
+  {
+    "id": 40,
+    "title": "Learning Svelte",
+    "body": "A beginner's guide to learning Svelte.",
+    "tags": [
+      "cloud",
+      "nuxtjs",
+      "scrum"
+    ],
+    "views": 538
+  },
+  {
+    "id": 41,
+    "title": "Using GitHub for Collaboration",
+    "body": "How to use GitHub for project collaboration.",
+    "tags": [
+      "gcp",
+      "react",
+      "devops"
+    ],
+    "views": 921
+  },
+  {
+    "id": 42,
+    "title": "Getting Started with Flask",
+    "body": "A guide to getting started with Flask.",
+    "tags": [
+      "git",
+      "nosql",
+      "kubernetes"
+    ],
+    "views": 645
+  },
+  {
+    "id": 43,
+    "title": "Introduction to Cloud Services",
+    "body": "An introduction to various cloud services.",
+    "tags": [
+      "backend",
+      "bash",
+      "typescript"
+    ],
+    "views": 357
+  },
+  {
+    "id": 44,
+    "title": "Frontend Frameworks Compared",
+    "body": "Comparing the most popular frontend frameworks.",
+    "tags": [
+      "gcp",
+      "azure",
+      "agile"
+    ],
+    "views": 918
+  },
+  {
+    "id": 45,
+    "title": "Backend Frameworks Compared",
+    "body": "Comparing the most popular backend frameworks.",
+    "tags": [
+      "git",
+      "machinelearning",
+      "angular"
+    ],
+    "views": 482
+  },
+  {
+    "id": 46,
+    "title": "Learning Django",
+    "body": "A beginner's guide to learning Django.",
+    "tags": [
+      "svelte",
+      "ci/cd",
+      "react"
+    ],
+    "views": 766
+  },
+  {
+    "id": 47,
+    "title": "Building E-Commerce Sites",
+    "body": "How to build e-commerce sites with modern tools.",
+    "tags": [
+      "css",
+      "javascript",
+      "python"
+    ],
+    "views": 849
+  },
+  {
+    "id": 48,
+    "title": "AI and Machine Learning Trends",
+    "body": "Discussing the latest trends in AI and machine learning.",
+    "tags": [
+      "svelte",
+      "css",
+      "flask"
+    ],
+    "views": 821
+  },
+  {
+    "id": 49,
+    "title": "DevOps Best Practices",
+    "body": "A guide to the best practices in DevOps.",
+    "tags": [
+      "html",
+      "mongodb",
+      "bash"
+    ],
+    "views": 630
+  }
+]

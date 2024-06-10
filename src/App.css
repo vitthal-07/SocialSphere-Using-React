@@ -1,0 +1,38 @@
+.app-container {
+    display: flex;
+}
+.content {
+    width: 100%;
+    min-height: 100vh;
+    background-color: #1c1a1a;
+    color: #fff;
+}
+
+.sideBar {
+    height: 100vh;
+    position: sticky;
+    top: 0;
+}
+.post-card {
+    margin: 20px 50px;
+}
+.hashtag {
+    margin: 0 3px;
+}
+.reactions {
+    margin-top: 10px;
+}
+.createPost {
+    margin-left: 10%;
+    margin-top: 50px;
+    width: 80%;
+}
+.blank-state {
+    margin: 40px 0;
+    line-height: 100%;
+}
+.loading {
+    width: 4rem;
+    height: 4rem;
+    margin: 30px 0;
+}
